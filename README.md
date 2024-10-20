@@ -1,4 +1,4 @@
 # demo
 This is my first repository.
 <br>
-Author-Utkarsh Anand
+Author-Utkarsh Anand Thakur
